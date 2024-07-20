@@ -9,5 +9,6 @@
 This is a Kartaverse R&D project a decade in the making.
 
 [Kartaverse](https://github.com/kartaverse)
-[About Reactor](https://kartaverse.github.io/Reactor-Docs/#/reactor)
 [GitHub](https://github.com/Kartaverse/ValkyrieEngine)
+
+(Scroll down for more info...)
