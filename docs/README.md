@@ -7,9 +7,9 @@
 
 Welcome to Valkyrie Engine™ — The new [Kartaverse 6](https://github.com/kartaverse) hybrid volumetric renderer for pixel-streaming XR experiences without limits.
 
-- True resolution independence has never looked so good.
-- Made in West Dover, Nova Scotia, Canada. 🇨🇦
-- The "Kartaverse Cloud" reboot is planned for [Dec 24, 2024](https://days.to/christmas-eve/2024/12/24).
+- True resolution independence has never looked so good
+- Made in West Dover, Nova Scotia, Canada 🇨🇦
+- The "Kartaverse Cloud" reboot is planned for [Dec 24, 2024](https://days.to/christmas-eve/2024/12/24)
 
 ___
 
