@@ -1,5 +1,10 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
+  - **Monado OpenXR Runtime**
+    - [Windows OpenXR Virtual Devices](https://docs.google.com/document/d/1htAN370BC_mqHKnARzIoqmS14ugMFmLEZ0fJu7C-suY/edit#heading=h.1xkl4rcyromo)
+    - [Linux OpenXR Virtual Devices](https://docs.google.com/document/d/1sPwB4DM2i_-PYQtwjmHX8XxijsiqwYEew-lBCJ8SmKY/edit#heading=h.1xkl4rcyromo)
+    - [Monado CAVE Merge Request](https://gitlab.freedesktop.org/monado/monado/-/merge_requests/2174)
+    - [OpenXR for Fulldome Thread](https://community.khronos.org/t/projection-caves-openxr-spec/108002)
 - **Links**
   - [Kartaverse](https://github.com/kartaverse)
   - [Medium Blog](https://medium.com/@andrewhazelden)
